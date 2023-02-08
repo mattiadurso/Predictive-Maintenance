@@ -1,8 +1,7 @@
 # Predictive Maintenance
-A deep learning approach to solve the predictive maintenance problem using time series. 
+A deep learning approach to solve the Remaining Useful Life problem using Transformer's architecture.
 
-
-In this repo is not present the code for the extraction, analysis and cleaning of the data since it contains sensible information. 
+# For the theory please refer to the paper.
 
 # Files:
 - dataset.py: the code for the sliding window formatting of the dataset.
