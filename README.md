@@ -1,7 +1,7 @@
 # Predictive Maintenance
 A deep learning approach to solve the Remaining Useful Life problem using Transformer's architecture.
 
-- For the theory please refer to the paper.
+For the theory please refer to the paper.
 
 # Files:
 - dataset.py: the code for the sliding window formatting of the dataset.
